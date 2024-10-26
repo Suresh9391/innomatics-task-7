@@ -1,0 +1,19 @@
+.banner-section-bg-container {
+    background-image: url("https://www.innomatics.in/wp-content/uploads/2023/12/mb-banner.jpg");
+    height: 110vh;
+    background-size: cover;
+    width:100%;
+  }
+  .custom-button {
+    color: white;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size:18px;
+  }  
+  #joinButton{
+    text-decoration:none;
+    color:white;
+  }

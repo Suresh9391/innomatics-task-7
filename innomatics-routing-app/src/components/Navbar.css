@@ -1,0 +1,42 @@
+.image {
+    width: 190px;
+    height: 70px;
+  }
+  #navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+  #navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+  }
+    #navItem4 {
+        color: #323f4b;
+        font-family: "Roboto"; 
+    } 
+    #navItem5 {
+      color: #323f4b;
+      font-family: "Roboto"; 
+  } 
+  #navItem6{
+    color:#323f4b;
+    font-family:"Roboto";
+  }
+  #navItem7{
+    color:#323f4b;
+    font-family:"Roboto";
+  }
+  .navbar {
+    background-color:white;
+  }   
+  .nav-link:hover {
+    color: #ffc107; 
+  }
+  
+  .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1); 
+  }

@@ -1,0 +1,21 @@
+.classroom-section {
+    background-color: lightblue;
+  }
+  .classroom-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+  }
+  .classroom-card {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+  }
+  .classroom-card-image {
+    width:350px;
+    height:550px;
+  }
