@@ -21,16 +21,16 @@ const App = () => {
       <div>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/Services" element={<Services />} >
+          <Route path="/services" element={<Services />} >
             <Route path="design" element={<Design />} />
             <Route path="development" element={<Development />} />
           </Route>  
-          <Route path="/Achievements" element={<Achievements />} />
-          <Route path="Classrooms" element={<Classrooms />} />
-          <Route path="Internship" element={<Internship />} />
+          <Route path="/achievements" element={<Achievements />} />
+          <Route path="classrooms" element={<Classrooms />} />
+          <Route path="internship" element={<Internship />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/Follow"  element={<Follow />} />
-          <Route path="*" element={<NotFound />} /> {/* Wildcard Route */}
+          <Route path="/notFound" element={<NotFound />} /> {/* Wildcard Route */}
         </Routes>
       </div>
     </Router>
